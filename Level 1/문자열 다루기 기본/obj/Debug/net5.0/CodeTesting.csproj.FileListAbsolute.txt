@@ -1,0 +1,144 @@
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\CodeTesting\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\CodeTesting\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\CodeTesting\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\CodeTesting\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\CodeTesting\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\CodeTesting\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\CodeTesting\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\CodeTesting\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 2\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 2\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 2\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 2\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 2\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 2\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 2\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 2\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 3\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 3\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 3\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 3\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 3\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 3\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 3\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 3\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 4\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 4\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 4\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 4\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 4\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 4\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 4\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 4\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 5\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 5\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 5\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 5\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 5\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 5\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 5\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 5\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 6\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 6\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 6\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 6\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 6\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 6\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 6\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 6\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 7\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 7\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 7\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 7\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 7\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 7\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 7\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 7\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 8\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 8\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 8\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 8\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 8\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 8\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 8\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 8\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 9\bin\Debug\net5.0\CodeTesting.exe
+C:\Users\kjes7\source\repos\코드테스트\문제 9\bin\Debug\net5.0\CodeTesting.deps.json
+C:\Users\kjes7\source\repos\코드테스트\문제 9\bin\Debug\net5.0\CodeTesting.runtimeconfig.json
+C:\Users\kjes7\source\repos\코드테스트\문제 9\bin\Debug\net5.0\CodeTesting.runtimeconfig.dev.json
+C:\Users\kjes7\source\repos\코드테스트\문제 9\bin\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 9\bin\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 9\bin\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.csproj.AssemblyReference.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.AssemblyInfoInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.AssemblyInfo.cs
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\ref\CodeTesting.dll
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.pdb
+C:\Users\kjes7\source\repos\코드테스트\문제 9\obj\Debug\net5.0\CodeTesting.genruntimeconfig.cache
